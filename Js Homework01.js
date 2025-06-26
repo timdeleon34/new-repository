@@ -91,3 +91,21 @@ perimeterarea = (side * side);
 
 console.log("The perimeter of the square = " + perimetersquare);
 console.log("The area of the square = " + perimeterarea);
+
+/*Task 11 */
+let favBook = 'JS Algorithms & Data Structures';
+let favColor = 'Blue';
+let favNumber = 7;
+
+
+console.log("\n The favorite book is " + favBook + " \n The favorite color is " + favColor + "\n The favorite number is " + favNumber);
+
+/*Task 12 */
+let firstName ='John';
+let lastName = 'Doe';
+let age = 45;
+let emailAddress = 'johndoe@gmail.com';
+let phoneNumber = '(123) 12 3 1234';
+let address = '123 St. Chicago IL 12345';
+
+console.log ("\n \t User who joined this program is " + firstName + " " + lastName +"." + firstName + " 's age is " + age + ". \n " + firstName +"'s email address is " + emailAddress + ", phone number is \n"  + phoneNumber + ", and address is " + address + "."); 
