@@ -34,10 +34,10 @@ sum = (num1 + num2);
 console.log("The sum of the numbers = " + sum);
 
 /*Task 5 */
-let Number1 = 24;
-let Number2 = 10;
+let n1 = 24;
+let n2 = 10;
 
-product = (Number1 * Number2);
+product = (n1 * n2);
 console.log("The prouct of the numbers = " + product);
 
 /*Task 6 */
