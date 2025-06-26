@@ -83,3 +83,11 @@ product2 = (b3 *= b3);
 console.log("The product of the numbers is: = " + product);
 console.log("The product of the numbers is: = " + product1);
 console.log("The product of the numbers is: = " + product2);
+
+/*Task 10 */
+let side = 7;
+perimetersquare = (4 * side);
+perimeterarea = (side * side);
+
+console.log("The perimeter of the square = " + perimetersquare);
+console.log("The area of the square = " + perimeterarea);
