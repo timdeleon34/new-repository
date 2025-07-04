@@ -101,7 +101,7 @@ function swap4(word) {
     return last4 + middle + first4;
 }
 
-console.log(swap4("abcdefgh")); 
+console.log(swap4("hello world")); 
 
 console.log(`<--Task 10-->`);
 function swapFirstAndLastWord(str3) {
