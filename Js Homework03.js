@@ -94,11 +94,11 @@ function swap4(word) {
         
         return word;
 }
-    const first4 = word.slice(0, 4);
+    const firstFourLetter = word.slice(0, 4);
     const middle = word.slice(4, -4);
     const last4 = word.slice(-4);
 
-    return last4 + middle + first4;
+    return last4 + middle + firstFourLetter;
 }
 
 console.log(swap4("hello world")); 
